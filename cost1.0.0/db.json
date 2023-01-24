@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "teste1",
+      "budget": "1000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": null,
+      "services": [
+        {
+          "name": "serv1",
+          "cost": "200",
+          "description": "custa 400 pita",
+          "id": "ebba0457-0542-4dcd-908a-9a9eef404b4f"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "development"
+    },
+    {
+      "id": 3,
+      "name": "design"
+    },
+    {
+      "id": 34,
+      "name": "plane"
+    }
+  ]
+}

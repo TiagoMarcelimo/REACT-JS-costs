@@ -1,0 +1,9 @@
+.ContProj{
+    padding:2em,
+    }
+.title{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
